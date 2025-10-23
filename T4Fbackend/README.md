@@ -1,3 +1,3 @@
 # I've created a simple Node.js backend that simulates and incredibly simplified transaction for ordering tea
 
-# This is based on an initial HTML / CSS / JavaScript frontend webpage that I will evetually rework in React
+## The idea is based on an initial HTML / CSS / JavaScript frontend webpage that I will evetually rework in React
